@@ -1,0 +1,5 @@
+{
+  "service": "KATS",
+  "status": "OK",
+  "test": "GITHUB_PUBLIC_ACCESS"
+}
